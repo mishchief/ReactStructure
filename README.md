@@ -1,6 +1,6 @@
 # ReactStructure Startup
 
-Use *create-react-app*, lets create our new React single page application.
+Use #create-react-app#, lets create our new React single page application.
 
 create-react-app react-redux-client
 
